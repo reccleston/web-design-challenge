@@ -10,11 +10,18 @@ h2 {
 	color: whitesmoke;
 }
 
+h3 {
+	color: whitesmoke;
+}
+
 p {
 	color: whitesmoke;
 
 }
 
+.Resources {
+	padding-top: 12px;
+}
 .vis_preview_img {
 	height: 3%;
 	/* display: flex; */
@@ -24,5 +31,9 @@ p {
 
 div.container {
 	margin-bottom: 0px;
+}
+
+tr {
+	width: 30px !important;
 }
 
