@@ -35,6 +35,10 @@ div.container {
 	margin-bottom: 0px;
 }
 
+div p {
+	margin-right: 0;
+}
+
 .viz_box {
 	padding-top: 20px;
 }
@@ -76,3 +80,4 @@ div.container {
 .short-bottom {
 	height: 350px;
 }
+
