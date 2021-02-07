@@ -14,6 +14,10 @@ h3 {
 	color: whitesmoke;
 }
 
+h5 {
+	color: black;
+}
+
 p {
 	color: whitesmoke;
 
@@ -23,17 +27,46 @@ p {
 	padding-top: 12px;
 }
 .vis_preview_img {
-	height: 3%;
-	/* display: flex; */
-	/* justify-content: space-between; */
-	margin: 10px;
+	width: 50%;
+	margin: 7px;
 }
 
 div.container {
 	margin-bottom: 0px;
 }
 
-tr {
-	width: 30px !important;
+.viz_box {
+	padding-top: 15px;
 }
 
+.viz_preview {
+	text-align: center;
+}
+
+.side-bar-dropdown {
+	color: whitesmoke;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  /* border-radius: 50%; */
+  /* border: 1px solid black; */
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: grey;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: grey;
+}
