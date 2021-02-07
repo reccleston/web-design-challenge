@@ -66,3 +66,13 @@ div.container {
   font-size: 55px;
   color: grey;
 }
+
+.comparison-img {
+	height: 20%;
+	padding: 0px;
+	margin: 0%;
+}
+
+.short-bottom {
+	height: 350px;
+}
